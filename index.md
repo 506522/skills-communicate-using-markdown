@@ -7,3 +7,8 @@
   install.packages("tydiverse")
   library(tidyverse)
 ```
+
+- [X] Fazer as PRS do dia
+- [X] Jogar as informações no Dashboard
+- [ ] Verificar as atividades do Comercial
+
